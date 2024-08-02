@@ -1,0 +1,2 @@
+# rachanashellscripting
+shellscripting,basic calculations
